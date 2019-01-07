@@ -17,11 +17,12 @@ namespace AreaofCircle
             {
                 Console.WriteLine("Enter a radius:");
                 input = (Console.ReadLine());
-                if (double.TryParse(input,out radius)==true)
+                if (double.TryParse(input,out radius)==true && radius > 0)
                 {
                     //radius = double.Parse(input);
                     goodInput = true;
                 }
+                
                 else
                 {
                     goodInput = false;
