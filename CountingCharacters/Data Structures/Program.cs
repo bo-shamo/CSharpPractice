@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Data_Structures
 {
@@ -6,7 +8,19 @@ namespace Data_Structures
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //input a string and count all charaters in it using dictionary
+            //varables
+            Dictionary<char, long> charCount = new Dictionary<char, long>();
+            string input = "";
+
+            //input
+            Console.WriteLine("Please input the desired string to be tested: ");
+            input = Console.ReadLine();
+
+            //process
+
+
+            //output
         }
     }
 }
