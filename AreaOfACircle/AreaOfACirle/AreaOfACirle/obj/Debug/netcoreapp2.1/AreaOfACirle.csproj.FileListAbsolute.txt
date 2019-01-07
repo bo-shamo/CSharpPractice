@@ -1,0 +1,10 @@
+C:\Users\danro\source\repos\CSharpPractice\AreaOfACircle\AreaOfACirle\AreaOfACirle\obj\Debug\netcoreapp2.1\AreaOfACirle.csproj.CoreCompileInputs.cache
+C:\Users\danro\source\repos\CSharpPractice\AreaOfACircle\AreaOfACirle\AreaOfACirle\obj\Debug\netcoreapp2.1\AreaOfACirle.AssemblyInfoInputs.cache
+C:\Users\danro\source\repos\CSharpPractice\AreaOfACircle\AreaOfACirle\AreaOfACirle\obj\Debug\netcoreapp2.1\AreaOfACirle.AssemblyInfo.cs
+C:\Users\danro\source\repos\CSharpPractice\AreaOfACircle\AreaOfACirle\AreaOfACirle\bin\Debug\netcoreapp2.1\AreaOfACirle.deps.json
+C:\Users\danro\source\repos\CSharpPractice\AreaOfACircle\AreaOfACirle\AreaOfACirle\bin\Debug\netcoreapp2.1\AreaOfACirle.runtimeconfig.json
+C:\Users\danro\source\repos\CSharpPractice\AreaOfACircle\AreaOfACirle\AreaOfACirle\bin\Debug\netcoreapp2.1\AreaOfACirle.runtimeconfig.dev.json
+C:\Users\danro\source\repos\CSharpPractice\AreaOfACircle\AreaOfACirle\AreaOfACirle\bin\Debug\netcoreapp2.1\AreaOfACirle.dll
+C:\Users\danro\source\repos\CSharpPractice\AreaOfACircle\AreaOfACirle\AreaOfACirle\bin\Debug\netcoreapp2.1\AreaOfACirle.pdb
+C:\Users\danro\source\repos\CSharpPractice\AreaOfACircle\AreaOfACirle\AreaOfACirle\obj\Debug\netcoreapp2.1\AreaOfACirle.dll
+C:\Users\danro\source\repos\CSharpPractice\AreaOfACircle\AreaOfACirle\AreaOfACirle\obj\Debug\netcoreapp2.1\AreaOfACirle.pdb
