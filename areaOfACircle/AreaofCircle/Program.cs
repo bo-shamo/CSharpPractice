@@ -1,19 +1,20 @@
 ﻿using System;
 
-
-namespace AreaOfACirle
+namespace AreaofCircle
 {
     class Program
     {
         static void Main(string[] args)
         {
+            //Input the Radius and output the area of a circle
             //Varables
             double radius = 0, area = 0;
-            //input a radius and output the area
-            Console.WriteLine("Please enter the radius of a circle: ");
-            radius = double.Parse (Console.ReadLine());
 
-            //Calculate the area
+            //Input
+            Console.WriteLine("Enter a radius:");
+            radius = double.Parse(Console.ReadLine());
+
+            //Math
             area = Math.PI * radius * radius;
 
             //Output
