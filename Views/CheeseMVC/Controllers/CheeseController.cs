@@ -11,16 +11,17 @@ namespace CheeseMVC.Controllers
     public class CheeseController : Controller
     {
 
-        static private List<String> Cheeses = new List<string>();
+        //static private List<String> Cheeses = new List<string>();
+        static private Dictionary<string, string> Cheeses = new Dictionary<string, string>();
         // GET: /<controller>/
 
 
         public IActionResult Index()
         {
 
-            /*cheeses.Add("Cheddar");
-            cheeses.Add("Munster");
-            cheeses.Add("Paremsan");*/
+            /*Cheeses.Add("Cheddar","Okay");
+            Cheeses.Add("Munster", "Exists");
+            //cheeses.Add("Paremsan");*/
 
             ViewBag.cheeses = Cheeses;
 
@@ -34,10 +35,10 @@ namespace CheeseMVC.Controllers
 
         [HttpPost]
         [Route("/Cheese/Add")]
-        public IActionResult NewCheese(string name)
+        public IActionResult NewCheese(string name, string description)
         {
             // Add new cheese to cheese
-            Cheeses.Add(name);
+            Cheeses.Add(name,description);
 
             return Redirect("/Cheese");
 
